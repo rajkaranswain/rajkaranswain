@@ -7,7 +7,7 @@ I'm RAJ KARAN SWAIN 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on flutter
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning AI/LLM
 - 🤔 I’m looking for help with application development
 - 📫 How to reach me: [Twitter - @RajKaranSwain](https://twitter.com/RajKaranSwain00)
 - 😄 Pronouns: He/His
